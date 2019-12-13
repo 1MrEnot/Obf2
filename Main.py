@@ -46,7 +46,7 @@ def run(path: str, binds: Dict[int, str]):
 
 if __name__ == "__main__":
 
-    DEBUG = 1
+    DEBUG = 0
     binds = {
         0: 'FULL',
         1: 'Main.py',
